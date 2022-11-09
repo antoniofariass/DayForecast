@@ -15,10 +15,7 @@ class GenerateID:
     def id(self):
         return self.__id
     
-    @username.setter
-    def username(self,new_username):
-        self.username = new_username
-    
+   
     @id.setter
     def id(self,new_id):
         self.__id = new_id

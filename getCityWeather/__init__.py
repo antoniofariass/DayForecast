@@ -32,9 +32,3 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
              "This function executed successfully. Pass a city in the query string or in the request body for info about yout city.",
              status_code=200
         ) 
-
-""" 
-http://localhost:7071/api/getCityWeather?name=Pedro 
-                                             ^ 
-                                             Req params 
-"""

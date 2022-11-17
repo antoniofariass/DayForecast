@@ -3,9 +3,11 @@
   
   <h2> Technologies used:
   
-  <h4> Python
-  <h4> OOP
-  <h4> Azure Function
-  <h4> Unittest
-
+  <h3> Python
+  <h3> OOP
+  <h3> Azure Function
+  <h3> Unittest
+  
+  <h2> Example:
+   
 ![alt text](https://github.com/antoniofariass/DayForecast/blob/161d99ced52f6a3784e024be012df259d49a4673/testing.png)

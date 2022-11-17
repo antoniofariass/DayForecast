@@ -3,10 +3,10 @@
   
   <h2> Technologies used:
   
-  <h3> Python
-  <h3> OOP
-  <h3> Azure Function
-  <h3> Unittest
+  <h3> Python 🐍
+  <h3> OOP 🏛️
+  <h3> Azure Function⚡
+  <h3> Unittest 🧪
   
   <h2> Example:
    
